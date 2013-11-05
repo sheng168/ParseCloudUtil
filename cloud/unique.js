@@ -21,3 +21,5 @@ Parse.Cloud.beforeSave("BusStop", function(request, response) {
     });
   }
 });
+
+// request.object.existed()
